@@ -1,0 +1,11 @@
+body {
+    font-family: "Roboto", sans-serif;
+  }
+  .bg-grey{
+      background-color: #343a40;
+  }
+  .bg-lightcoral{
+      font-weight: bold;
+      color: white;
+      background-color: coral;
+  }
